@@ -118,7 +118,9 @@ El script usa las siguientes tablas:
 
 ## Licencia
 
-Este proyecto está bajo la licencia MIT.
+Este proyecto está bajo la licencia GPL-3.0 (GNU General Public License v3.0).
+
+Consulta el archivo `LICENSE` para el texto completo de la licencia o visita https://www.gnu.org/licenses/gpl-3.0.html.
 
 ## Autor
 
